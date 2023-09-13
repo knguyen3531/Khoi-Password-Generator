@@ -21,3 +21,4 @@ List of steps:
 9/ Display the generated password in the textarea when the button is clicked.
 
 10/ Feel free to copy this list into a text file for your reference.
+https://knguyen3531.github.io/Khoi-Password-Generator/
